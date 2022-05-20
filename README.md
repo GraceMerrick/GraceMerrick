@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Im The Offical Github For Miracle Bot </h1>
-<h3 align="center">A All Purpose Discord Bot</h3>
-
+# Hello I AM Grace
 - 😄 Pronouns: She/Her
 - ⚒️ [Works For Falixnodes Support](https://falixnodes.net)
 - ✅ [Falixnodes Discord Server](https://discord.gg/falixnodes)
