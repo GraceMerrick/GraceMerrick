@@ -8,8 +8,8 @@
 ---
 
 ### Discord Status
-<a href="https://discord.com/users/973307610239500298">
-<img height="80px" src="https://discord.c99.nl/widget/theme-3/973307610239500298.png" />
+<a href="https://discord.com/users/814170568005124137">
+<img height="80px" src="(https://discord.c99.nl/widget/theme-3/973307610239500298.png)" />
 </a>
 
 ### Contact me: 
